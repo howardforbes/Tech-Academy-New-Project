@@ -1,0 +1,9 @@
+C:\Users\howar\myProjects\Tech-Academy-New-Project\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\howar\myProjects\Tech-Academy-New-Project\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\howar\myProjects\Tech-Academy-New-Project\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\howar\myProjects\Tech-Academy-New-Project\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\howar\myProjects\Tech-Academy-New-Project\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\howar\myProjects\Tech-Academy-New-Project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\howar\myProjects\Tech-Academy-New-Project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\howar\myProjects\Tech-Academy-New-Project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\howar\myProjects\Tech-Academy-New-Project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
